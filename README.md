@@ -3,7 +3,7 @@
 <p align="center">Site para coach de Muay Thai, Boxe, Jiu-Jitsu e MMA</p>
 
 <p align="center">
-  <a href="https://santanadesouzanicolas32-sketch.github.io/TEAMBRAVEGRILO/"><strong>🌐 Ver projeto online</strong></a>
+  <a href="https://santanadesouzanicolas32-sketch.github.io/vinicius-grilo-site/"><strong>🌐 Ver projeto online</strong></a>
 </p>
 
 ---
@@ -41,8 +41,8 @@
 ## 🚀 Como rodar localmente
 
 ```bash
-git clone https://github.com/santanadesouzanicolas32-sketch/TEAMBRAVEGRILO.git
-cd TEAMBRAVEGRILO
+git clone https://github.com/santanadesouzanicolas32-sketch/vinicius-grilo-site.git
+cd vinicius-grilo-site
 # abra o index.html no navegador ou use a extensão Live Server do VS Code
 ```
 
