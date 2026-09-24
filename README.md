@@ -24,7 +24,6 @@
 ## 📁 Estrutura
 
 ```
-├── .gitignore
 ├── comemoracao.jpg
 ├── comemoracao.webp
 ├── grilo1_opt.mp4
